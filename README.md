@@ -281,7 +281,7 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-![1 (3)](https://github.com/Prethiveerajan/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/94233064/3f85ec73-51d1-44c6-a156-636612930ac7)
+![out 1](https://github.com/AbishekAnand15/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/118706942/7414a4c4-77b9-4ad7-acef-48641ed9ad1e)
 
 
 ## RESULT:
