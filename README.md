@@ -4,10 +4,10 @@
 <h3>
  
   NAME:Abishek Xavier A
- 
+  
   REGISTER NUMBER:212222230004
   
-  DEPARTMENT:AIDS
+  DATE
   
 </h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
