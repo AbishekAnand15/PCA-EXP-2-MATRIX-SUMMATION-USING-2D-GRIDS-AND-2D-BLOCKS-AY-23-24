@@ -6,6 +6,8 @@
   NAME:Abishek Xavier A
   
   REGISTER NUMBER:212222230004
+
+  EX NO:2
   
   DATE
   
